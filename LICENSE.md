@@ -5,7 +5,7 @@ Ce travail est la propriété intellectuelle de Christopher Boisvert. Il peut ê
 
 1. Autorisation d'Utilisation sur GitHub : Ce projet peut être hébergé et partagé sur GitHub à des fins de collaboration, d'apprentissage et de contribution au développement, à condition de respecter les restrictions suivantes.
 2. Attribution : Toute utilisation ou distribution du projet sur GitHub doit mentionner l'auteur original. Vous devez inclure un lien vers le dépôt original ainsi que la mention suivante :
-"Ce projet est basé sur le travail original de [Votre Nom]".
+"Ce projet est basé sur le travail original de Christopher Boisvert".
 3. Usage Non Commercial Uniquement : Ce travail est mis à disposition sur GitHub uniquement à des fins éducatives, académiques ou de recherche. Toute utilisation commerciale est strictement interdite, sauf accord explicite de l'auteur.
 4. Contributions : Vous pouvez proposer des modifications ou des contributions à ce projet via des pull requests sur GitHub, mais l'auteur se réserve le droit d'accepter ou de refuser ces contributions. Toute contribution doit également respecter la condition d'attribution mentionnée ci-dessus.
 5. Interdiction de Redistribution : Vous ne pouvez pas redistribuer ce projet sur GitHub (ou d'autres plateformes) sous une forme modifiée ou non, sans l'autorisation expresse de l'auteur. Cependant, le fork du projet est permis dans les limites de GitHub pour des contributions directes ou des dérivés à titre personnel.
